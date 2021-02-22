@@ -1,5 +1,5 @@
 {
-  "name": "somework/composer-symlinks",
+  "name": "gasparonik/composer-symlinks",
   "type": "composer-plugin",
   "description": "Create relative symlinks based on getcwd() and relative data",
   "minimum-stability": "dev",
