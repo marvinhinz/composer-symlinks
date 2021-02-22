@@ -9,7 +9,7 @@ Installation
 To install the latest stable version of this component, open a console and execute the following command:
 
 ```
-$ composer require somework/composer-symlinks
+$ composer require gasparonik/composer-symlinks
 ```
 
 Usage
